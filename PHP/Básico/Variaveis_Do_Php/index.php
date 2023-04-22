@@ -11,3 +11,10 @@
     echo '</pre>';
     // SErver é um variavel que puxa todas as informações do servidor onde está
 ?>
+
+<?php
+        //constantes
+        define('Dominio', 'Localhot');
+        echo Dominio;
+
+?>
