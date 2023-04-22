@@ -12,6 +12,10 @@
     $altura = 1.77;
     echo 'Minha altura é ' .$altura;
     echo "<br>";
+    //format string
+    echo "Meu nome é $nome com format string";
+    echo "<br>";
+    echo "<div class=\"megabox\">meu conteudo megabox</div>";
     
 
 ?>

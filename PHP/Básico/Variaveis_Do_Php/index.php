@@ -16,5 +16,4 @@
         //constantes
         define('Dominio', 'Localhot');
         echo Dominio;
-
 ?>
