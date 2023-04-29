@@ -15,9 +15,4 @@
         die("O script parou de ser executado");
     }
 
-
-
-
-
-
 ?>
