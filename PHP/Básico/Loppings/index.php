@@ -5,7 +5,6 @@ for($count=0;$count<11;$count++){
     echo $count;
     echo "<br>";
 }
-
 echo "<br/>";
 
 //while
