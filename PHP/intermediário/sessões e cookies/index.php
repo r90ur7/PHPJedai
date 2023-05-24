@@ -7,5 +7,4 @@ if(isset($_SESSION['nome'])){
 // nome,valor,tempo para expirar, caminho, dominio, segurança
 // setcookie('nome','guilherme',time() + (86.400).'/' );
 setcookie('nome','guilherme',time() - (86.400).'/' );
-
 ?>
