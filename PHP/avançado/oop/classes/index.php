@@ -53,8 +53,5 @@
 //instanciar
 $BB = new Pessoa;
 $BB2 = new Pessoa;
-
 $BB ->crescer();
-
-
 ?>
